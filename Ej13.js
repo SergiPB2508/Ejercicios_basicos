@@ -21,10 +21,7 @@ const nameFinder = [
         return false
     }
     
-    
-
   }
-
 
   console.log(finderName(nameFinder, "Logan"));
   
